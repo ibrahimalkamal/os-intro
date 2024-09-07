@@ -35,7 +35,7 @@ babel-otherlangs: english
 ## Fonts
 mainfont: PT Serif
 romanfont: PT Serif
-sansfont: PT Sans
+sansfont: "Arial"
 monofont: PT Mono
 mainfontoptions: Ligatures=TeX
 romanfontoptions: Ligatures=TeX
