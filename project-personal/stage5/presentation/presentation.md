@@ -35,12 +35,12 @@ header-includes:
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры прикладной информатики и теории вероятностей
+  * Алькамаль Ибрахим
+  * студентка из группы НКАбд-01-23
+  * Факультет физико-математических и естественных наук
   * Российский университет дружбы народов
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * [1032225432@pfur.ru](mailto:1032225432@pfur.ru)
+  * <https://ibrahimalkamal.github.io/>
 
 :::
 ::: {.column width="30%"}
